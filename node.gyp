@@ -37,6 +37,7 @@
       'lib/_http_common.js',
       'lib/_http_incoming.js',
       'lib/_http_outgoing.js',
+      'lib/_http_parser.js',
       'lib/_http_server.js',
       'lib/https.js',
       'lib/_linklist.js',
